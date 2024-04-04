@@ -4,6 +4,7 @@
 )](https://www.linkedin.com/in/joaolucas-sampaio/)
 
 ![joaolucassampaio GitHub stats](https://github-readme-stats.vercel.app/api?username=joaolucassampaio&show_icons=true&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucassampaio&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia a dia

@@ -5,6 +5,8 @@
 
 ![joaolucassampaio GitHub stats](https://github-readme-stats.vercel.app/api?username=joaolucassampaio&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucassampaio&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
@@ -15,3 +17,9 @@
 </div><br/>
 
 Apaixonado por tecnologia e desenvolvimento de software.
+
+## Últimos projetos:
+- [Seal World - Site Completo em HTML5 e CSS3](https://joaolucassampaio.github.io/Projeto-Pratico-Seal-World/)<br/>
+
+## Contato:
+- Email: joaolucas.sampaio@outlook.com

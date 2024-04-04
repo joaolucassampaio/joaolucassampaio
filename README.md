@@ -17,8 +17,10 @@
 
 Apaixonado por tecnologia e desenvolvimento de software.
 
+
 ## Últimos projetos:
 - [Seal World - Site Completo em HTML5 e CSS3](https://joaolucassampaio.github.io/Projeto-Pratico-Seal-World/)<br/>
+
 
 ## Contato:
 - Email: joaolucas.sampaio@outlook.com

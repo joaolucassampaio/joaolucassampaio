@@ -15,9 +15,5 @@
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" align="center" alt="typescript">
 </div>
 
-## Últimos projetos:
-- [Seal World - Site Completo em HTML5 e CSS3](https://joaolucassampaio.github.io/Projeto-Pratico-Seal-World/)<br/>
-
-
 ## Contato:
 - Email: joaolucas.sampaio@outlook.com
